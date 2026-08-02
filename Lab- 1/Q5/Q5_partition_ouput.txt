@@ -1,0 +1,13 @@
+Enter the number of elements in the array: 10
+Enter the elements of the array (0 or 1): 0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+The 1s start exactly at index: 4
+PS D:\DAA Lab\Lab- 1> 

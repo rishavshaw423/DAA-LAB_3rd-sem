@@ -1,0 +1,7 @@
+Enter the total number of tosses to simulate: 1000
+Enter the bias probability for the biased coin (e.g. 0.7 for 70% heads): 0.66
+
+Final probability of heads (Fair coin): 0.513000
+Final probability of heads (Biased coin, target 0.66): 0.649000
+♪◙Graph plotted successfully.♪◙
+PS D:\DAA Lab\Lab- 1> 

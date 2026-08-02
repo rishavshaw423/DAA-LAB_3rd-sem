@@ -1,0 +1,7 @@
+Increasing order of functions for n = 100:
+
+1/n < log2(n) < n^0.51 < 12sqrt(n) < 50sqrt(n) < nlog2(n) < n^2-324 < 100n^2+6n < 2n^3 < 2^32*n < n^(log2 n) < 3^n
+
+Enter the maximum value of n for plotting: 100
+♪◙Graph plotted successfully.♪◙
+PS D:\DAA Lab\Lab- 1> 

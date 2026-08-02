@@ -1,0 +1,9 @@
+Enter the number of random numbers (n): 10
+Enter the range of random numbers (e.g. 100): 100
+
+Generated numbers: 39 92 21 80 56 48 37 80 66 55 
+
+Duplicate values: 80 
+
+Result: Duplicates found!
+PS D:\DAA Lab\Lab- 1> ^C

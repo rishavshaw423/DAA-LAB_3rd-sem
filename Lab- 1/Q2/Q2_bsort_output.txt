@@ -1,0 +1,37 @@
+Enter the maximum array size to test: 100
+Enter the step size for increasing array size: 3
+n = 3 | Optimized: 3 comparisons | Standard: 3 comparisons
+n = 6 | Optimized: 12 comparisons | Standard: 15 comparisons
+n = 9 | Optimized: 36 comparisons | Standard: 36 comparisons
+n = 12 | Optimized: 45 comparisons | Standard: 66 comparisons
+n = 15 | Optimized: 104 comparisons | Standard: 105 comparisons
+n = 18 | Optimized: 143 comparisons | Standard: 153 comparisons
+n = 21 | Optimized: 189 comparisons | Standard: 210 comparisons
+n = 24 | Optimized: 270 comparisons | Standard: 276 comparisons
+n = 27 | Optimized: 336 comparisons | Standard: 351 comparisons
+n = 30 | Optimized: 429 comparisons | Standard: 435 comparisons
+n = 33 | Optimized: 518 comparisons | Standard: 528 comparisons
+n = 36 | Optimized: 627 comparisons | Standard: 630 comparisons
+n = 39 | Optimized: 713 comparisons | Standard: 741 comparisons
+n = 42 | Optimized: 858 comparisons | Standard: 861 comparisons
+n = 45 | Optimized: 987 comparisons | Standard: 990 comparisons
+n = 48 | Optimized: 1122 comparisons | Standard: 1128 comparisons
+n = 51 | Optimized: 1265 comparisons | Standard: 1275 comparisons
+n = 54 | Optimized: 1430 comparisons | Standard: 1431 comparisons
+n = 57 | Optimized: 1491 comparisons | Standard: 1596 comparisons
+n = 60 | Optimized: 1755 comparisons | Standard: 1770 comparisons
+n = 63 | Optimized: 1932 comparisons | Standard: 1953 comparisons
+n = 66 | Optimized: 2100 comparisons | Standard: 2145 comparisons
+n = 69 | Optimized: 2268 comparisons | Standard: 2346 comparisons
+n = 72 | Optimized: 2520 comparisons | Standard: 2556 comparisons
+n = 75 | Optimized: 2720 comparisons | Standard: 2775 comparisons
+n = 78 | Optimized: 2948 comparisons | Standard: 3003 comparisons
+n = 81 | Optimized: 3225 comparisons | Standard: 3240 comparisons
+n = 84 | Optimized: 3450 comparisons | Standard: 3486 comparisons
+n = 87 | Optimized: 3713 comparisons | Standard: 3741 comparisons
+n = 90 | Optimized: 3869 comparisons | Standard: 4005 comparisons
+n = 93 | Optimized: 4277 comparisons | Standard: 4278 comparisons
+n = 96 | Optimized: 4545 comparisons | Standard: 4560 comparisons
+n = 99 | Optimized: 4746 comparisons | Standard: 4851 comparisons
+♪◙Plot generated successfully.♪◙
+PS D:\DAA Lab\Lab- 1> 

@@ -1,0 +1,3 @@
+Enter the number of disks: 12
+Simulation complete. GNUplot window opened successfully.♪◙
+PS D:\DAA Lab\Lab- 1> 
